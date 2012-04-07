@@ -1,0 +1,8 @@
+This is JAVA Desktop Application for Amharic Question ANswering System for Factoid Question Types, named as ተጠየቅ
+It is the product of my MSc thesis work at Addis Ababa University, Supervised by Dr. Mulugeta Libsie
+It is based on Lucene 2.4 and has some other jar dependencies included in the lib direcxtory.
+Besides, I have included lucene Indexes for fast test.
+HOWTO - in Eclipse
+
+1. download the project from google code using svn
+2. import it in 
